@@ -1,0 +1,6 @@
+login;password;familia;name;otchestvo;20;300000
+login1;password;familia;name;otchestvo;20;300000
+login2;password;familia;name;otchestvo00;20;300000
+login3;password;familia;name;otchestvo;20;300000
+login4;password;familia;name;otchestvo;17;300000
+login5;password;familia;name;otchestvo;55;300000
